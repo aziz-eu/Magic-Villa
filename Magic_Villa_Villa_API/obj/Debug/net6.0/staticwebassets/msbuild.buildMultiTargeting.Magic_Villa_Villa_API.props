@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Magic_Villa_Villa_API.props" />
+</Project>
